@@ -1,4 +1,28 @@
 {
+  "com.github.alexthe666.iceandfire.entity.EntitySeaSerpent": [
+    "swim|false,1.2F,1.2F,true"
+  ],
+  "com.github.alexthe666.iceandfire.entity.EntityHippocampus": [
+    "swim|false,1.2F,1.2F,false"
+  ],
+  "com.github.alexthe666.iceandfire.entity.EntityAmphithere": [
+    "fly|true"
+  ],
+  "com.github.alexthe666.iceandfire.entity.EntityFireDragon": [
+    "fly|false",
+    "fireImmunity"
+  ],
+  "com.github.alexthe666.iceandfire.entity.EntityHippogryph": [
+    "fly|false"
+  ],
+  "com.github.alexthe666.iceandfire.entity.EntityIceDragon": [
+    "fly|false"
+  ],
+  "com.github.alexthe666.iceandfire.entity.EntityPixie": [
+    "fly|false"
+  ],
+  "com.github.alexthe666.iceandfire.entity.EntityStymphalianBird": [
+    "fly|false"
   "am2.bosses.EntityAirGuardian": [
     "hostile",
     "fly|false"
